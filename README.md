@@ -83,9 +83,3 @@ Through this project, I practiced:
 * Add sound effects and animations
 * Multiplayer mode
 * Leaderboard system
-
-## 👨‍💻 Author
-
-**Arajit Parida**
-
-This project is open-source and available under the MIT License.
