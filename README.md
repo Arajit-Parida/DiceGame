@@ -1,6 +1,6 @@
 # 🎲 Dice Game
 
-A simple and interactive Dice Game built using **React.js**, **JavaScript**, and **CSS**. This project allows users to roll a dice, select numbers, track scores, and learn game rules through a clean and responsive user interface.
+Dice Game is a simple and interactive web application built using React.js, JavaScript, and CSS. It allows users to roll a dice, select numbers, track their scores, and understand the game rules through a clean and responsive user interface.
 
 ## 🚀 Features
 
